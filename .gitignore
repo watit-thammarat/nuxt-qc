@@ -83,3 +83,7 @@ upload
 
 #Dependency lock files
 package-lock.json
+
+#dot env
+.env.beta
+.env.production
